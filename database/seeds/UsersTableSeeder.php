@@ -14,15 +14,15 @@ class UsersTableSeeder extends Seeder
         $data=array(
             array(
                 'name'=>'Admin',
-                'email'=>'yudihadiyanto7@gmail.com',
-                'password'=>Hash::make('yudishop12345'),
+                'email'=>'admin@gmail.com',
+                'password'=>Hash::make('1111'),
                 'role'=>'admin',
                 'status'=>'active'
             ),
             array(
                 'name'=>'User',
                 'email'=>'user@gmail.com',
-                'password'=>Hash::make('12345678'),
+                'password'=>Hash::make('1111'),
                 'role'=>'user',
                 'status'=>'active'
             ),
