@@ -79,7 +79,9 @@
 						</div>
 						<div class="col-lg-6 col-12">
 							<div class="right">
-								<img src="{{asset('backend/img/payments.png')}}" alt="#">
+								<a href="https://xen.to/z6w1Ub4O" target="blank">
+								<img src="{{asset('backend/img/payments.png')}}" alt="">
+							</a>
 							</div>
 						</div>
 					</div>
