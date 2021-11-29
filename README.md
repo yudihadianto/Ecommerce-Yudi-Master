@@ -1,5 +1,9 @@
 # Ecommerce-Yudi-Master
 
+# DEMO APLIKASI E-YUDI SHOP (LARAVEL)
+
+Nanti Di Update Di Youtube
+
 1. git clone https://github.com/yudihadianto/Ecommerce-Yudi-Master.git
 
 2. Masuk ke direktori : cd Ecommerce-Yudi-Master
