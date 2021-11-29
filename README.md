@@ -1,8 +1,7 @@
 # Ecommerce-Yudi-Master
 
 # DEMO APLIKASI E-YUDI SHOP (LARAVEL)
-
-https://www.youtube.com/watch?v=boSb0KxB_Hc
+# https://www.youtube.com/watch?v=boSb0KxB_Hc
 
 1. git clone https://github.com/yudihadianto/Ecommerce-Yudi-Master.git
 
