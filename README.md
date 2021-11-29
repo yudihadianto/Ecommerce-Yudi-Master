@@ -1,32 +1,29 @@
 # Ecommerce-Yudi-Master
 
+1. git clone https://github.com/yudihadianto/Ecommerce-Yudi-Master.git
 
-git clone
+2. Masuk ke direktori : cd Ecommerce-Yudi-Master
 
-Clone the repo and cd into it
+3. composer install
 
-composer install
+4. Rename atau salin file .env.example file menjadi .env
 
-Rename or copy .env.example file to .env
+5. php artisan key:generate
 
-php artisan key:generate
+6. Rename Databse pada file .env
 
-Set your database credentials in your .env file
+7. Import database file
 
-Import db file(database/e-shop.sql) into your database (mysql,sql)
+8. npm install
 
-npm install
+9. npm run watch
 
-npm run watch
+10. php artisan serve
 
-php artisan serve
+11. Hapus folder : /public/storage
 
-delete folder /public/storage
+12. php artisan storage:link
 
-run command[laravel file manager]:- php artisan storage:link
+13. Hapus APP_URL pada file .env
 
-Edit .env file :- remove APP_URL
-
-copy file storage/app/public kemudian paste kan di folder /storage/app
-
-php artisan serve or use virtual host
+14. Copy file storage/app/public kemudian paste kan di folder /storage/app
