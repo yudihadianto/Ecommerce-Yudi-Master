@@ -25,9 +25,3 @@
 12. php artisan storage:link
 
 13. Hapus APP_URL pada file .env
-
-14. Copy file storage/app/public kemudian paste kan di folder /storage/app
-
-15. User : user@gmail.com
-
-16.  : Pass : 12345678
