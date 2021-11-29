@@ -119,7 +119,7 @@
                                                 @php
                                                     $org=($product->price-($product->price*$product->discount)/100);
                                                 @endphp
-                                                <p class="price"><del class="text-muted">{{number_format($product->price,2)}}</del>   {{number_format($org,2)}}  </p>                                                
+                                                <p class="price"><del class="text-muted"> {{number_format($product->price,2)}}</del>   {{number_format($org,2)}}  </p>                                                
                                             </div>
                                         </div>
                                         <!-- End Single Post -->
