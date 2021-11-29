@@ -11,7 +11,12 @@
                                 $settings=DB::table('settings')->get();
                                 
                             @endphp
-                            <li><i class="ti-headphone-alt"></i>@foreach($settings as $data) {{$data->phone}} @endforeach</li>
+                            <a href="wa.me/+6281286291383" target="blank">
+                                <li>
+                                <i class="ti-headphone-alt"></i>@foreach($settings as $data) {{$data->phone}} @endforeach
+                        </li>
+                    </a>
+
                             <li><i class="ti-email"></i> @foreach($settings as $data) {{$data->email}} @endforeach</li>
                         </ul>
                     </div>
