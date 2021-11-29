@@ -1,6 +1,6 @@
 @extends('frontend.layouts.master')
 
-@section('title','E-SHOP || About Us')
+@section('title','E-YUDI SHOP || About Us')
 
 @section('main-content')
 
