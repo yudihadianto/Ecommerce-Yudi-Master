@@ -184,7 +184,7 @@
                                                     <img class="default-img" src="{{$photo[0]}}" alt="{{$photo[0]}}">
                                                     <img class="hover-img" src="{{$photo[0]}}" alt="{{$photo[0]}}">
                                                     @if($product->discount)
-                                                                <span class="price-dec">{{$product->discount}} % Off</span>
+                                                                <span class="price-dec">{{$product->discount}} % </span>
                                                     @endif
                                                 </a>
                                                 <div class="button-head">
