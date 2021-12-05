@@ -36,7 +36,7 @@
 <link rel="stylesheet" href="{{asset('frontend/css/reset.css')}}">
 <link rel="stylesheet" href="{{asset('frontend/css/style.css')}}">
 <link rel="stylesheet" href="{{asset('frontend/css/responsive.css')}}">
-<link rel="shortcut icon" href="backend/img/favicon.ico">
+<link rel="shortcut icon" href="backend/img/yudi-icon.ico">
 
 <script type='text/javascript' src='https://platform-api.sharethis.com/js/sharethis.js#property=61a4d32cae534f001a2775c1&product=inline-share-buttons' async='async'></script>
 <style>
