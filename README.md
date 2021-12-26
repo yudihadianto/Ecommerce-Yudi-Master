@@ -32,5 +32,7 @@
 
 14. untuk ujicoba sebagai Buyer silahkan memakai user dibawah ini:
 
-User : hoyonggaya@gmail.com
-Pass :
+- User : hoyonggaya@gmail.com
+- Pass : 123456
+
+atau silahkan Register akun baru dan login
