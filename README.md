@@ -1,6 +1,7 @@
 # Ecommerce-Yudi-Master
 
 # DEMO APLIKASI E-YUDI SHOP (LARAVEL)
+
 # https://www.youtube.com/watch?v=boSb0KxB_Hc
 
 1. git clone https://github.com/yudihadianto/Ecommerce-Yudi-Master.git
@@ -21,10 +22,15 @@
 
 9. npm run watch
 
-10. php artisan serve
+10. Hapus folder : /public/storage
 
-11. Hapus folder : /public/storage
+11. php artisan storage:link
 
-12. php artisan storage:link
+12. Hapus APP_URL pada file .env
 
-13. Hapus APP_URL pada file .env
+13. php artisan serve
+
+14. untuk ujicoba sebagai Buyer silahkan memakai user dibawah ini:
+
+User : hoyonggaya@gmail.com
+Pass :
