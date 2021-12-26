@@ -4,6 +4,8 @@ Source Code : https://github.com/yudihadianto/Ecommerce-Yudi-Master
 
 # https://www.youtube.com/watch?v=boSb0KxB_Hc
 
+# Configurasi dan Penggunaan Aplikasi
+
 1. git clone https://github.com/yudihadianto/Ecommerce-Yudi-Master.git
 
 2. Masuk ke direktori : cd Ecommerce-Yudi-Master
